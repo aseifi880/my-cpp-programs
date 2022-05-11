@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
+// all this little script does is receive inputs of velocity and from user and return the Wind Chill Index
+// btw, WCI is used to measure how much heat we lose in a windy day in a specific temp.
 void WindColdIndex(float velocity, float temprature){
 	float W;
 	
